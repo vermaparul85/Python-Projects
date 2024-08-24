@@ -11,4 +11,4 @@
 4. When the player's guess equals the number, it tells them, they've guessed correctly *and* how many guesses it took!
 
 # Project 2 - Carnival Game
-This program depicts the carnival game of guessing which cup has the Red Ball
+* This program depicts the carnival game of guessing which cup has the Red Ball.
