@@ -13,8 +13,8 @@ def multiply(n1, n2):
 def divide(n1, n2):
     return n1 / n2
 
-# Using function as variable 
-calc_dict = {'+': add, '-': subtract, '*': multiply, '/': divide} 
+# Using function as variable
+calc_dict = {'+': add, '-': subtract, '*': multiply, '/': divide}
 
 def calculator():
     print(calc_logo)
@@ -35,6 +35,12 @@ def calculator():
             first_number = result
         else:
             clear_output()
-            calculator()           #Recursion
-        
+
+            new_operation = input(f'Do you want to continue? Type "y" or "n": ').lower()
+            if new_operation == 'n':
+                print('Bye Bye')
+                break
+            else:
+                calculator()    # Using recursion
+
 calculator()
