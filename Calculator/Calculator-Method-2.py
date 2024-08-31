@@ -1,5 +1,6 @@
 from IPython.display import clear_output
 from art import calc_logo
+import sys
 
 def add(n1, n2):
     return n1 + n2
@@ -39,8 +40,8 @@ def calculator():
             new_operation = input(f'Do you want to continue? Type "y" or "n": ').lower()
             if new_operation == 'n':
                 print('Bye Bye')
-                break
-            else:
-                calculator()    # Using recursion
+                sys.exit(0)
+            elif new_operation == 'y':
+                calculator()             # Using recursion
 
 calculator()
