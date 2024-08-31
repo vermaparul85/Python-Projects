@@ -38,10 +38,10 @@ def calculator():
             clear_output()
 
             new_operation = input(f'Do you want to continue? Type "y" or "n": ').lower()
-            if new_operation == 'n':
+            if new_operation == 'y':
+                calculator()             # Using recursion
+            else:
                 print('Bye Bye')
                 sys.exit(0)
-            elif new_operation == 'y':
-                calculator()             # Using recursion
 
 calculator()
