@@ -13,7 +13,7 @@ def multiply(n1, n2):
 def divide(n1, n2):
     return n1 / n2
 
-# Using function as valiable 
+# Using function as variable 
 calc_dict = {'+': add, '-': subtract, '*': multiply, '/': divide} 
 
 def calculator():
