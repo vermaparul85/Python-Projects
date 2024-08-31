@@ -8,7 +8,7 @@
 * If no, program asks the user for the fist number again and wipes all memory of previous calculations.
 
 ## Method 1
-Method 1 is creating a calculator program using functions and loops.
+Method 1 is creating a calculator program using simple function and loops.
 
 ## Method 2
-Method 1 is creating a calculator program using functions as variable and recursion.
+Method 2 is creating a calculator program using functions as variable and recursion call.
