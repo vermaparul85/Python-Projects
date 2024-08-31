@@ -49,7 +49,7 @@ class Hand:
         self.value += values[card.rank]
 
         # track aces
-        if card.rank == 'Aces':
+        if card.rank == 'Ace':
             self.aces += 1
         
     def adjust_for_aces(self):
