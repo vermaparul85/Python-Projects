@@ -22,5 +22,7 @@ To play a hand of Blackjack the following steps must be followed:
 11. Determine the winner and adjust the Player's chips accordingly
 12. Ask the Player if they'd like to play again
 
-## Method 1 - Using Functions only
-## Method 2 - Using OOP Concepts and Functions
+## Method 1
+Using Functions only
+## Method 2
+Using OOP Concepts and Functions
