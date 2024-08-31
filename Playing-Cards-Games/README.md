@@ -21,3 +21,6 @@ To play a hand of Blackjack the following steps must be followed:
 10. If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or exceeds 17
 11. Determine the winner and adjust the Player's chips accordingly
 12. Ask the Player if they'd like to play again
+
+## Method 1 - Using Functions only
+## Method 2 - Using OOP Concepts and Functions
