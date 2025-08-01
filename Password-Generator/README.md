@@ -1,4 +1,4 @@
-# Project - Password Generator
+# Password Generator
 * The program will ask:
   <br>How many letters would you like in your password?
   <br>How many symbols would you like?
