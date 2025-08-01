@@ -1,3 +1,2 @@
-# Python-Projects
-
-1. Play Rock, Paper, Scissors game with computer 
+# Python Programs - Beginner-Level
+# Python Programs - Intermediate-Level
