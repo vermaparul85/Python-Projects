@@ -1,12 +1,4 @@
-# Project 1 - War Game
-## Game Rules
-* Two players will each start off with half the deck.
-* Then they each remove a card, compare which card has the highest value.
-* The player with the higher card wins both cards. 
-* The game continues until one players is out of cards.
-* If both player draw same card, then they will draw 5 more cards. Whoever has the top card with higher value will win all the drawn cards.
-
-# Project 2 - Blackjack Game
+# Blackjack Game
 ## Game Rules
 To play a hand of Blackjack the following steps must be followed:
 1. Create a deck of 52 cards
