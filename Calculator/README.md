@@ -1,4 +1,4 @@
-# Project - Calculator
+# Calculator
 * Program asks the user to type the first number.
 * Program asks the user to type a mathematical operator (a choice of "+", "-", "*" or "/")
 * Program asks the user to type the second number.
