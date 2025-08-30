@@ -1,1 +1,1 @@
-This Folder contains small python programs beginner freindly.
+This Folder contains small python programs beginner-friendly.
