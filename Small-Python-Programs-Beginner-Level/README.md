@@ -1,1 +1,42 @@
-This Folder contains small python programs beginner-friendly.
+# This File contains small python programs beginner-friendly.
+## List of programs:
+1. Find PI to the Nth Digit
+2. Find e to the Nth Digit
+3. Generate Fibonacci Sequence
+4. Find Prime Numbers for a Given Range
+5. Prime Factorization
+6. Find Next Prime Number
+7. Change Return Program
+8. Create Simple Calculator
+9. Unit converter
+10. Find Factorial of a Given Number
+11. Swap Two Variables
+12. Display Calendar of a Given Year & Month and Display Month Names
+13. Display Multiplication Table
+14. Check whether the number is armstrong number or not
+15. Find LCM
+16. Find HCF
+17. Convert Decimal to Binary, Octal, Hexadecimal
+18. Find ASCII Value of a Character
+19. Print Reverse Order, Sum, Sum of Squares and Sum of Cubes of N Natural Numbers
+20. Remove Punctuation from String
+21. Find whether the given number is disarium number or not.
+22. Find whether the given number is harshad number or not.
+23. Find Second Largest Number in the List
+24. Find Even Number in a List
+25. Find Odd Number in a List
+26. Remove Empty List from List of Lists
+27. Count Occurrences of an Element in a List
+28. Find Words which are Greater than Given Length
+29. Set Operations
+30. Find All Duplicate Characters in a String
+31. Extract Unique Values in Dictionary, and Find Sum of Values
+32. Sort the Dictionary by Key and Values, Also Find Min and Max
+33. Compress and Decompress the Given String
+34. Print Numbers Divisible by 5 and 7 for a Given Range
+35. Remove Negative Values and Strings from List
+36. Move Given Element at the End of the List
+37. Sort a List of Strings from Shortest to Longest Word
+38. Multiply All Numbers in a List
+39. Check whether the input string is binary or not.
+40. Convert Temperatures from Celsius to Fahrenheit
