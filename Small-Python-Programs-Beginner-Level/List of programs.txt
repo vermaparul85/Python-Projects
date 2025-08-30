@@ -2,37 +2,40 @@ List of programs:
 1. Find PI to the Nth Digit
 2. Find e to the Nth Digit
 3. Generate Fibonacci Sequence
-4. Prime Numbers
+4. Find Prime Numbers for a Given Range
 5. Prime Factorization
-6. Next Prime Number
+6. Find Next Prime Number
 7. Change Return Program
-8. Calculator
+8. Create Simple Calculator
 9. Unit converter
-10. Factorial
-11. Swap two variables
-12. Display Calendar
-13. Display Multiplication table
+10. Find Factorial of a Given Number
+11. Swap Two Variables
+12. Display Calendar of a Given Year & Month and Display Month Names
+13. Display Multiplication Table
 14. Check whether the number is armstrong number or not
 15. Find LCM
 16. Find HCF
-17. Convert decimal to binary, octal, hexadecimal
-18. Find ASCII value of a character
-19. Print revese order, sum, sum of squares, sum of cubes of n natural numbers
-20. Remove punctuation from string
+17. Convert Decimal to Binary, Octal, Hexadecimal
+18. Find ASCII Value of a Character
+19. Print Reverse Order, Sum, Sum of Squares and Sum of Cubes of N Natural Numbers
+20. Remove Punctuation from String
 21. Find whether the given number is disarium number or not.
 22. Find whether the given number is harshad number or not.
-23. Find second largest number in the list
-24. Find even number in a list
-25. Find odd number in a list
-26. Remove empty list from list
-27. Count occurrences of an element
-28. Find words which are greater than given length
-29. Set operations
-30. Find all duplicate characters in a string
-31. Extract unique values in dictionary, and find sum of values
-32. Sort the dictionary by key and values, find Min and max
-33. Compress and decompress the string
-34. Print numbers divisible by 5 and 7 using generator
-35. Remove negative and strings from list
-36. Move one type of element at the end of the list
-37. Sort the list from shortest to longest word
+23. Find Second Largest Number in the List
+24. Find Even Number in a List
+25. Find Odd Number in a List
+26. Remove Empty List from List of Lists
+27. Count Occurrences of an Element in a List
+28. Find Words which are Greater than Given Length
+29. Set Operations
+30. Find All Duplicate Characters in a String
+31. Extract Unique Values in Dictionary, and Find Sum of Values
+32. Sort the Dictionary by Key and Values, Also Find Min and Max
+33. Compress and Decompress the Given String
+34. Print Numbers Divisible by 5 and 7 for a Given Range
+35. Remove Negative Values and Strings from List
+36. Move Given Element at the End of the List
+37. Sort a List of Strings from Shortest to Longest Word
+38. Multiply All Numbers in a List
+39. Check whether the input string is binary or not.
+40. Convert Temperatures from Celsius to Fahrenheit
