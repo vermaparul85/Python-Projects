@@ -60,8 +60,10 @@ Method 1 is creating a calculator program using simple function and loops.
 ### Method 2
 Method 2 is creating a calculator program using functions as variable and recursion call.
 
-# **List of Python Programs - Intermediate-Level**
+## [9. Small Python Programs - Beginner Friendly](https://github.com/vermaparul85/Python-Projects/tree/main/Small-Python-Programs-Beginner-Level)
+* This file contains many python projects for beginners to begin with.
 
+# **List of Python Programs - Intermediate-Level**
 ## [1. Playing Card War Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-War-Game)
 * Two players will each start off with half the deck.
 * Then they each remove a card, compare which card has the highest value.
