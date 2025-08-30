@@ -1,0 +1,38 @@
+List of programs:
+1. Find PI to the Nth Digit
+2. Find e to the Nth Digit
+3. Generate Fibonacci Sequence
+4. Prime Numbers
+5. Prime Factorization
+6. Next Prime Number
+7. Change Return Program
+8. Calculator
+9. Unit converter
+10. Factorial
+11. Swap two variables
+12. Display Calendar
+13. Display Multiplication table
+14. Check whether the number is armstrong number or not
+15. Find LCM
+16. Find HCF
+17. Convert decimal to binary, octal, hexadecimal
+18. Find ASCII value of a character
+19. Print revese order, sum, sum of squares, sum of cubes of n natural numbers
+20. Remove punctuation from string
+21. Find whether the given number is disarium number or not.
+22. Find whether the given number is harshad number or not.
+23. Find second largest number in the list
+24. Find even number in a list
+25. Find odd number in a list
+26. Remove empty list from list
+27. Count occurrences of an element
+28. Find words which are greater than given length
+29. Set operations
+30. Find all duplicate characters in a string
+31. Extract unique values in dictionary, and find sum of values
+32. Sort the dictionary by key and values, find Min and max
+33. Compress and decompress the string
+34. Print numbers divisible by 5 and 7 using generator
+35. Remove negative and strings from list
+36. Move one type of element at the end of the list
+37. Sort the list from shortest to longest word
